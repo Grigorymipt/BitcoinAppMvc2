@@ -1,0 +1,65 @@
+﻿@model IEnumerable<BitcoinAppMvc.Models.TransactionData>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UTCCreated)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UTCChanged)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Entity_Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.System_Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DocumentType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PublicationStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UTCCreated)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UTCChanged)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Entity_Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.System_Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DocumentType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PublicationStatus)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
