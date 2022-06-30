@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitcoinAppMvc", "BitcoinAppMvc\BitcoinAppMvc.csproj", "{C0F28A32-0232-4EE7-9CF0-D4806CC6EEE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DreamTeam.Bitcoin.Data", "DreamTeam.Bitcoin.Data\DreamTeam.Bitcoin.Data.csproj", "{E2D0CAB8-19C8-4DB1-BCA9-6EB92BAF8F6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0F28A32-0232-4EE7-9CF0-D4806CC6EEE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F28A32-0232-4EE7-9CF0-D4806CC6EEE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F28A32-0232-4EE7-9CF0-D4806CC6EEE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F28A32-0232-4EE7-9CF0-D4806CC6EEE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2D0CAB8-19C8-4DB1-BCA9-6EB92BAF8F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2D0CAB8-19C8-4DB1-BCA9-6EB92BAF8F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2D0CAB8-19C8-4DB1-BCA9-6EB92BAF8F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2D0CAB8-19C8-4DB1-BCA9-6EB92BAF8F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2E9E922-7110-4620-B353-33E6F033FE26}
+	EndGlobalSection
+EndGlobal

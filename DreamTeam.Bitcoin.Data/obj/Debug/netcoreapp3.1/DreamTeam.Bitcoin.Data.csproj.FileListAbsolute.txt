@@ -1,0 +1,5 @@
+C:\Users\onlyd\source\repos\BitcoinAppMvc\DreamTeam.Bitcoin.Data\obj\Debug\netcoreapp3.1\DreamTeam.Bitcoin.Data.csproj.AssemblyReference.cache
+C:\Users\onlyd\source\repos\BitcoinAppMvc\DreamTeam.Bitcoin.Data\obj\Debug\netcoreapp3.1\DreamTeam.Bitcoin.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onlyd\source\repos\BitcoinAppMvc\DreamTeam.Bitcoin.Data\obj\Debug\netcoreapp3.1\DreamTeam.Bitcoin.Data.AssemblyInfoInputs.cache
+C:\Users\onlyd\source\repos\BitcoinAppMvc\DreamTeam.Bitcoin.Data\obj\Debug\netcoreapp3.1\DreamTeam.Bitcoin.Data.AssemblyInfo.cs
+C:\Users\onlyd\source\repos\BitcoinAppMvc\DreamTeam.Bitcoin.Data\obj\Debug\netcoreapp3.1\DreamTeam.Bitcoin.Data.csproj.CoreCompileInputs.cache

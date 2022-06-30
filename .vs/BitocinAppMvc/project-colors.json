@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c0f28a32-0232-4ee7-9cf0-d4806cc6eee6": {
+      "ProjectGuid": "c0f28a32-0232-4ee7-9cf0-d4806cc6eee6",
+      "DisplayName": "BitcoinAppMvc",
+      "ColorIndex": 0
+    },
+    "e2d0cab8-19c8-4db1-bca9-6eb92baf8f6a": {
+      "ProjectGuid": "e2d0cab8-19c8-4db1-bca9-6eb92baf8f6a",
+      "DisplayName": "DreamTeam.Bitcoin.Data",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
