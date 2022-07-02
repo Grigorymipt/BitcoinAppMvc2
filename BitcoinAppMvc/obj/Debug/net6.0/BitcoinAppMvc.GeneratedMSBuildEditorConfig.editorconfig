@@ -8,57 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BitcoinAppMvc
 build_property.RootNamespace = BitcoinAppMvc
-build_property.ProjectDir = C:\Users\mark_\OneDrive\Документы\GitHub\BitcoinAppMvc\BitcoinAppMvc\
+build_property.ProjectDir = C:\Users\lordu\Source\Repos\BitcoinAppMvc2\BitcoinAppMvc\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mark_\OneDrive\Документы\GitHub\BitcoinAppMvc\BitcoinAppMvc
+build_property.MSBuildProjectDirectory = C:\Users\lordu\Source\Repos\BitcoinAppMvc2\BitcoinAppMvc
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/mark_/OneDrive/Документы/GitHub/BitcoinAppMvc/BitcoinAppMvc/Views/Home/Index.cshtml]
+[C:/Users/lordu/Source/Repos/BitcoinAppMvc2/BitcoinAppMvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mark_/OneDrive/Документы/GitHub/BitcoinAppMvc/BitcoinAppMvc/Views/Home/Privacy.cshtml]
+[C:/Users/lordu/Source/Repos/BitcoinAppMvc2/BitcoinAppMvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mark_/OneDrive/Документы/GitHub/BitcoinAppMvc/BitcoinAppMvc/Views/Shared/Error.cshtml]
+[C:/Users/lordu/Source/Repos/BitcoinAppMvc2/BitcoinAppMvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mark_/OneDrive/Документы/GitHub/BitcoinAppMvc/BitcoinAppMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/lordu/Source/Repos/BitcoinAppMvc2/BitcoinAppMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mark_/OneDrive/Документы/GitHub/BitcoinAppMvc/BitcoinAppMvc/Views/TransactionData/Create.cshtml]
+[C:/Users/lordu/Source/Repos/BitcoinAppMvc2/BitcoinAppMvc/Views/TransactionData/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25EYXRhXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mark_/OneDrive/Документы/GitHub/BitcoinAppMvc/BitcoinAppMvc/Views/TransactionData/Delete.cshtml]
+[C:/Users/lordu/Source/Repos/BitcoinAppMvc2/BitcoinAppMvc/Views/TransactionData/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25EYXRhXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mark_/OneDrive/Документы/GitHub/BitcoinAppMvc/BitcoinAppMvc/Views/TransactionData/Details.cshtml]
+[C:/Users/lordu/Source/Repos/BitcoinAppMvc2/BitcoinAppMvc/Views/TransactionData/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25EYXRhXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mark_/OneDrive/Документы/GitHub/BitcoinAppMvc/BitcoinAppMvc/Views/TransactionData/Edit.cshtml]
+[C:/Users/lordu/Source/Repos/BitcoinAppMvc2/BitcoinAppMvc/Views/TransactionData/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25EYXRhXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mark_/OneDrive/Документы/GitHub/BitcoinAppMvc/BitcoinAppMvc/Views/TransactionData/Index.cshtml]
+[C:/Users/lordu/Source/Repos/BitcoinAppMvc2/BitcoinAppMvc/Views/TransactionData/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25EYXRhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mark_/OneDrive/Документы/GitHub/BitcoinAppMvc/BitcoinAppMvc/Views/_ViewImports.cshtml]
+[C:/Users/lordu/Source/Repos/BitcoinAppMvc2/BitcoinAppMvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mark_/OneDrive/Документы/GitHub/BitcoinAppMvc/BitcoinAppMvc/Views/_ViewStart.cshtml]
+[C:/Users/lordu/Source/Repos/BitcoinAppMvc2/BitcoinAppMvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mark_/OneDrive/Документы/GitHub/BitcoinAppMvc/BitcoinAppMvc/Views/Shared/_Layout.cshtml]
+[C:/Users/lordu/Source/Repos/BitcoinAppMvc2/BitcoinAppMvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-a10o3peaoa

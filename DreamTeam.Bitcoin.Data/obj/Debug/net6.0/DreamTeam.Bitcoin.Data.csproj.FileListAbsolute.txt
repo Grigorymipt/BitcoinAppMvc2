@@ -26,3 +26,17 @@ C:\Users\mark_\OneDrive\Документы\GitHub\BitcoinAppMvc\DreamTeam.Bitcoi
 C:\Users\mark_\OneDrive\Документы\GitHub\BitcoinAppMvc\DreamTeam.Bitcoin.Data\obj\Debug\net6.0\ref\DreamTeam.Bitcoin.Data.dll
 C:\Users\mark_\OneDrive\Документы\GitHub\BitcoinAppMvc\DreamTeam.Bitcoin.Data\obj\Debug\net6.0\DreamTeam.Bitcoin.Data.pdb
 C:\Users\mark_\OneDrive\Документы\GitHub\BitcoinAppMvc\DreamTeam.Bitcoin.Data\obj\Debug\net6.0\DreamTeam.Bitcoin.Data.genruntimeconfig.cache
+C:\Users\lordu\Source\Repos\BitcoinAppMvc2\DreamTeam.Bitcoin.Data\bin\Debug\net6.0\DreamTeam.Bitcoin.Data.deps.json
+C:\Users\lordu\Source\Repos\BitcoinAppMvc2\DreamTeam.Bitcoin.Data\bin\Debug\net6.0\DreamTeam.Bitcoin.Data.runtimeconfig.json
+C:\Users\lordu\Source\Repos\BitcoinAppMvc2\DreamTeam.Bitcoin.Data\bin\Debug\net6.0\DreamTeam.Bitcoin.Data.dll
+C:\Users\lordu\Source\Repos\BitcoinAppMvc2\DreamTeam.Bitcoin.Data\bin\Debug\net6.0\DreamTeam.Bitcoin.Data.pdb
+C:\Users\lordu\Source\Repos\BitcoinAppMvc2\DreamTeam.Bitcoin.Data\obj\Debug\net6.0\DreamTeam.Bitcoin.Data.csproj.AssemblyReference.cache
+C:\Users\lordu\Source\Repos\BitcoinAppMvc2\DreamTeam.Bitcoin.Data\obj\Debug\net6.0\DreamTeam.Bitcoin.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lordu\Source\Repos\BitcoinAppMvc2\DreamTeam.Bitcoin.Data\obj\Debug\net6.0\DreamTeam.Bitcoin.Data.AssemblyInfoInputs.cache
+C:\Users\lordu\Source\Repos\BitcoinAppMvc2\DreamTeam.Bitcoin.Data\obj\Debug\net6.0\DreamTeam.Bitcoin.Data.AssemblyInfo.cs
+C:\Users\lordu\Source\Repos\BitcoinAppMvc2\DreamTeam.Bitcoin.Data\obj\Debug\net6.0\DreamTeam.Bitcoin.Data.csproj.CoreCompileInputs.cache
+C:\Users\lordu\Source\Repos\BitcoinAppMvc2\DreamTeam.Bitcoin.Data\obj\Debug\net6.0\DreamTeam.Bitcoin.Data.dll
+C:\Users\lordu\Source\Repos\BitcoinAppMvc2\DreamTeam.Bitcoin.Data\obj\Debug\net6.0\refint\DreamTeam.Bitcoin.Data.dll
+C:\Users\lordu\Source\Repos\BitcoinAppMvc2\DreamTeam.Bitcoin.Data\obj\Debug\net6.0\DreamTeam.Bitcoin.Data.pdb
+C:\Users\lordu\Source\Repos\BitcoinAppMvc2\DreamTeam.Bitcoin.Data\obj\Debug\net6.0\DreamTeam.Bitcoin.Data.genruntimeconfig.cache
+C:\Users\lordu\Source\Repos\BitcoinAppMvc2\DreamTeam.Bitcoin.Data\obj\Debug\net6.0\ref\DreamTeam.Bitcoin.Data.dll

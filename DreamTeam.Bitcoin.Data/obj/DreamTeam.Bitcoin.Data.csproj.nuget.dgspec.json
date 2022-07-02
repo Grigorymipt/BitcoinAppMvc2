@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mark_\\OneDrive\\Документы\\GitHub\\BitcoinAppMvc\\DreamTeam.Bitcoin.Data\\DreamTeam.Bitcoin.Data.csproj": {}
+    "C:\\Users\\lordu\\Source\\Repos\\BitcoinAppMvc2\\DreamTeam.Bitcoin.Data\\DreamTeam.Bitcoin.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mark_\\OneDrive\\Документы\\GitHub\\BitcoinAppMvc\\DreamTeam.Bitcoin.Data\\DreamTeam.Bitcoin.Data.csproj": {
+    "C:\\Users\\lordu\\Source\\Repos\\BitcoinAppMvc2\\DreamTeam.Bitcoin.Data\\DreamTeam.Bitcoin.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mark_\\OneDrive\\Документы\\GitHub\\BitcoinAppMvc\\DreamTeam.Bitcoin.Data\\DreamTeam.Bitcoin.Data.csproj",
+        "projectUniqueName": "C:\\Users\\lordu\\Source\\Repos\\BitcoinAppMvc2\\DreamTeam.Bitcoin.Data\\DreamTeam.Bitcoin.Data.csproj",
         "projectName": "DreamTeam.Bitcoin.Data",
-        "projectPath": "C:\\Users\\mark_\\OneDrive\\Документы\\GitHub\\BitcoinAppMvc\\DreamTeam.Bitcoin.Data\\DreamTeam.Bitcoin.Data.csproj",
-        "packagesPath": "C:\\Users\\mark_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mark_\\OneDrive\\Документы\\GitHub\\BitcoinAppMvc\\DreamTeam.Bitcoin.Data\\obj\\",
+        "projectPath": "C:\\Users\\lordu\\Source\\Repos\\BitcoinAppMvc2\\DreamTeam.Bitcoin.Data\\DreamTeam.Bitcoin.Data.csproj",
+        "packagesPath": "C:\\Users\\lordu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lordu\\Source\\Repos\\BitcoinAppMvc2\\DreamTeam.Bitcoin.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mark_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lordu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
