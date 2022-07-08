@@ -52,7 +52,7 @@ namespace BitcoinAppMvc.Data
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,UTCCreated,UTCChanged,Person_Id,System_Id,DocumentType,PublicationStatus")] TransactionData db1)
+        public async Task<IActionResult> Create([Bind("Id,UTCCreated,UTCChanged,Entity_Id,System_Id,DocumentType,PublicationStatus")] TransactionData db1)
         {
             if (ModelState.IsValid)
             {
@@ -82,7 +82,7 @@ namespace BitcoinAppMvc.Data
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(Guid id, 
-            [Bind("Id,UTCCreated,UTCChanged,Person_Id,System_Id,DocumentType,PublicationStatus")] TransactionData db1)
+            [Bind("Id,UTCCreated,UTCChanged,Entity_Id,System_Id,DocumentType,PublicationStatus")] TransactionData db1)
         {
             if (id != db1.ID)
             {
